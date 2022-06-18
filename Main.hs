@@ -3,11 +3,6 @@
 module Main
 where
 
--- Diese Datei ist nicht Teil der Abgabe, sondern
--- nur als Hilfe fuer das Erstellen eines ausfuehrbaren Bots
-
--- DIESES MODUL NICHT ÄNDERN!!!
-
 import System.Environment
 import qualified Data.List as List
 
