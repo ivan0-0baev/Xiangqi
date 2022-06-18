@@ -1,2 +1,6 @@
 # Xiangqi
-Xiangqi Game in Terminal Using Haskell
+Two Player Xiangqi Game inside the Terminal
+
+Uses Fen Strings to interpret the Board Positions 
+
+Currently Missing Winning Condition
