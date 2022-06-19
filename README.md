@@ -1,7 +1,7 @@
 # Xiangqi
 Two Player Xiangqi Game inside the Terminal
 
-Some info on the files:
+Some info on the files: 
 Uses Fen Strings to interpret the Board Positions 
 
 InterpretFen.hs translates the fen string to a board and vice versa
@@ -14,13 +14,13 @@ a certain board position and depending on whose turn it is.
 The legality of moves is checked in MoveLogic.hs
 
 
-To do:
+To do: 
 Currently Missing Winning Condition.
 Fen string usage can be optimised
 ...
 
 
-Board representation information:
+Board representation information: 
 Red Player is represented by the uppercase letters.
 Black Player is represented by the lowercase letters.
 
