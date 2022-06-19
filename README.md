@@ -1,6 +1,7 @@
 # Xiangqi
 Two Player Xiangqi Game inside the Terminal
 
+
 Some info on the files: 
 
 Uses Fen Strings to interpret the Board Positions 
@@ -10,16 +11,16 @@ depending on the appropriate format.
 UpdateBoard.hs changes the fen string given a certain move.
 GameBoard.hs contains functions that display the board in the terminal
 
-The listMoves function, using isLegal in MoveLogic.hs, in XiangqiBot.hs gives a list of all Legal Moves given
-a certain board position and depending on whose turn it is.
-The legality of moves is checked given by each player is checked and either accepted
+The listMoves function, using isLegal in MoveLogic.hs, in XiangqiBot.hs gives a list of all 
+Legal Moves givena certain board position and depending on whose turn it is.
+The legality of moves given by each player is checked and either accepted
 or refused.
 
 
 To do: 
 
 Currently Missing Winning Condition.
-Fen string usage can be optimised
+Fen string usage can be optimised.
 ...
 
 
