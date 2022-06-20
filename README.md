@@ -35,3 +35,5 @@ and Advisor pieces are both bounded to move only inside the castle.
 Between rows 4 and 5 is the river/border, that gives the division 
 between the two player fields, affecting the movement of the 
 Elephant and Soldier pieces.
+
+Move Format example: a0-a1
